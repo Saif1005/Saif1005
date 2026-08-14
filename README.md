@@ -126,8 +126,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saif1005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif1005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
 <br><br>
 
@@ -138,6 +136,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saif1005&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph" width="95%"/>
 
 </div>
+
+### 🏆 Top Languages
+
+```text
+Python       ████████████████████████░░░░░░   80%
+C / C++      ██████████████████░░░░░░░░░░░░   60%
+Bash         ███████████████░░░░░░░░░░░░░░░   50%
+JavaScript   ████████████░░░░░░░░░░░░░░░░░░   40%
+SQL          ████████████░░░░░░░░░░░░░░░░░░   40%
+```
 
 ---
 
